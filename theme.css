@@ -1,0 +1,12 @@
+:root {
+  --game-font: 'Fredoka', system-ui, -apple-system, sans-serif;
+  --nu-blue: #1a3a7e;
+  --nu-gold: #f4c430;
+  --nu-dark: #0e1b3d;
+  --halloween-orange: #ff7a1a;
+  --halloween-purple: #6b2d8c;
+}
+body,
+#ui-layer {
+  font-family: var(--game-font);
+}

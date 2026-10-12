@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "theme": { "accent": "#f4c430" },
+  "types": [],
+  "settings": [
+    { "key": "activeRows", "label": "Active Lanes", "input": "number", "min": 1, "max": 5, "step": 1 },
+    { "key": "startSpirit", "label": "Starting NU Spirit", "input": "number", "min": 25, "max": 500, "step": 25 },
+    { "key": "autoGenRate", "label": "Auto Spirit Interval (s)", "input": "number", "min": 2, "max": 15, "step": 1 },
+    { "key": "autoGenAmount", "label": "Auto Spirit Amount", "input": "number", "min": 5, "max": 100, "step": 5 },
+    { "key": "badgeFallRate", "label": "Falling Badge Interval (s)", "input": "number", "min": 3, "max": 20, "step": 1 }
+  ]
+}
